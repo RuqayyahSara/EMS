@@ -1,0 +1,23 @@
+{
+  "DB_URL": "mongodb+srv://RuqayyahSara:GUEQxmE9v8P3N8o8@ruqayyah.ulmpj.gcp.mongodb.net/mat8-gms?retryWrites=true&w=majority",
+
+  "PORT": 5005,
+  "URL": "http://192.168.0.155:5005",
+
+  "SECRET_KEYS": {
+    "JWT": "CS.CODE.IN",
+    "CRYPTO": "CS21.CODE.IN"
+  },
+  "EMAIL_SMTP" : {
+    "HOST" : "mail.ruqayyah.codes",
+    "AUTH" : {
+      "USER" : "sara@ruqayyah.codes",
+      "PASS" : "saraKicksAss123"
+    }
+  },
+  "SEND_SMS": {
+    "TWILIO_SID": "AC1ac5cb2ae08072d4f712601f56517a01",
+    "TWILIO_TOKEN": "559b64a4fa1b6ee7aee92bdf9df47224",
+    "TWILIO_NUMBER": "+19362431346"
+}
+}

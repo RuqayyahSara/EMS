@@ -1,0 +1,29 @@
+{
+  "name": "cs21_mat8_classwork",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "type": "module",
+  "scripts": {
+    "start": "nodemon app.js"
+  },
+  "engines": {
+    "node": "17.8.0"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "bcrypt": "^5.0.1",
+    "config": "^3.3.7",
+    "crypto-js": "^4.1.1",
+    "express": "^4.18.1",
+    "express-validator": "^6.14.2",
+    "jsonwebtoken": "^8.5.1",
+    "mongoose": "^6.4.0",
+    "nodemailer": "^6.7.5",
+    "twilio": "^3.77.3"
+  },
+  "devDependencies": {
+    "googleapis": "^105.0.0"
+  }
+}
